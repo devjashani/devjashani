@@ -1,8 +1,9 @@
-[![MasterHead]([(https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif))](https://devjashani.io)]
+[![MasterHead]![190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8](https://github.com/devjashani/devjashani/assets/130270800/1c136921-35dd-4db9-af75-6de181c7db85)
+
 <h1 align="center">Hi 👋, I'm Dev jashani</h1>
 <h3 align="center">A passionate Web Development from India</h3>
-(img align="right" alt="Coding" width="400" src="http://cdn.dribbble.com/users/1162077/screenshot/3848914/programmer.gif">
 
+(img align="right" alt="Coding" width="100" src="![programmer](https://github.com/devjashani/devjashani/assets/130270800/7aa137ef-b1f8-40d7-9644-d8b9e0b9f31c)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjashani&label=Profile%20views&color=0e75b6&style=flat" alt="devjashani" /> </p>
