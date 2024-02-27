@@ -1,21 +1,21 @@
 ![190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8](https://github.com/devjashani/devjashani/assets/130270800/1c136921-35dd-4db9-af75-6de181c7db85)
 
-<h1 align="center">Hi 👋, I'm Dev jashani</h1>
-<h3 align="center">A passionate Web Development from India</h3>
-
-![programmer](https://github.com/devjashani/devjashani/assets/130270800/7aa137ef-b1f8-40d7-9644-d8b9e0b9f31c)
+<h1 align="center">Hi 👋, I'm Dev Jashani</h1>
+<h3 align="center">A passionate Web Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjashani&label=Profile%20views&color=0e75b6&style=flat" alt="devjashani" /> </p>
 
-- 🌱 I’m currently learning **Java || Web Development**
+- 🔭 I’m currently working on *JAVA Project*
 
-- 💬 Ask me about **Advance DSA || Web Development**
+- 🌱 I’m currently learning *Java*
 
-- 📫 How to reach me **devjashani2004@gmail.com**
+- 💬 Ask me about *Advance DSA, C, C++*
 
-- ⚡ Fun fact **Developed with Fun**
+- 📫 How to reach me *devjashani2004@gmail.com*
 
+- ⚡ Fun fact *Code With Fun*
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ig_dev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ig_dev_" height="30" width="40" /></a>
