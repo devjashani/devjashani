@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjashani&label=Profile%20views&color=0e75b6&style=flat" alt="devjashani" /> </p>
 
-- 🔭 I’m currently working on *JAVA Project || LeetCode || Advance DSA *
+- 🔭 I’m currently working on *JAVA Project || LeetCode || Advance DSA*
 
 - 🌱 I’m currently learning *Java*
 
-- 💬 Ask me about *Advance DSA, C, C++, JAVA *
+- 💬 Ask me about *Advance DSA, C, C++, JAVA*
 
 - 📫 How to reach me *devjashani2004@gmail.com*
 
-- ⚡ Fun fact *Code With Fun*
+- ⚡ Fun fact : *𝐈𝐟 𝐜𝐨𝐝𝐞 𝐰𝐨𝐫𝐤𝐬 𝐝𝐨𝐧'𝐭 𝐭𝐨𝐮𝐜𝐡 𝐢𝐭 𝐚𝐠𝐚𝐢𝐧 <span style="color:green;">!</span>*
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ig_dev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ig_dev_" height="30" width="40" /></a>
