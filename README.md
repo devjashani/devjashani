@@ -12,6 +12,7 @@
 <br/>
 <img src="https://godigiworld.com/wp-content/uploads/2021/04/iOS_App.gif" width="80%">
 <br/>
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 🔭 I’m currently working on **LeetCode and Java Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
 
