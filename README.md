@@ -28,7 +28,7 @@
 
 ## 💪 Passionate about Competitive Coding
 
-- Solved 22+ DSA Problems at **[LeetCode](https://leetcode.com/DevJashani/)**
+- Solved 25+ DSA Problems at **[LeetCode](https://leetcode.com/DevJashani/)**
 
 ## 🏆 Achievement
 
