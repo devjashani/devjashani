@@ -28,7 +28,7 @@
 
 ## 💪 Passionate about Competitive Coding
 
-- Solved 25+ DSA Problems at **[LeetCode](https://leetcode.com/DevJashani/)**
+- Solved 30+ DSA Problems at **[LeetCode](https://leetcode.com/DevJashani/)**
 - Solved 15+ MySQL Problems at **[HackerRank](https://www.hackerrank.com/profile/devjashani40)**
 ## 🏆 Achievement
 
