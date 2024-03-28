@@ -70,10 +70,8 @@
 
 
 
-## 🏆 Trophies:
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"></a>
-<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=chetannada&row=4&theme=onedark&no-frame=true&title=Stars,Followers,Commits,PullRequest,Reviews,Repositories,Issues" />
+
 
 
 
