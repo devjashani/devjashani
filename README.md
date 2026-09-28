@@ -1,81 +1,320 @@
-<h1 align='center'>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Dev Jashani.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
-</h1>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--              DEV JASHANI — JAVA FULL STACK DEVELOPER            -->
+<!--              Dark Minimal Aesthetic Profile README              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h3 align='center'>
-  An Android Developer from India <img style="vertical-align: sub" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" alt="India Flag" width="25" />
-</h3>
+<div align="center">
 
-<div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=devjashani&style=flat-square&color=blue" alt="Profile Views" />
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=200&section=header&text=Dev%20Jashani&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+
+<!-- Animated Subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&random=false&width=600&lines=Building+reliable+backend+systems;Spring+Boot+%7C+React+%7C+PostgreSQL;Clean+architecture.+Scalable+solutions.;Just+Code+Nig." alt="Typing SVG" />
+
+<br/>
+
+<!-- Minimal Social Row -->
+<a href="https://github.com/devjashani"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" /></a>
+<a href="https://linkedin.com/in/dev-jashani"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" /></a>
+<a href="mailto:devjashani2004@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=devjashani&style=flat-square&color=8B949E&label=views" />
+<img src="https://img.shields.io/github/followers/devjashani?style=flat-square&color=8B949E&label=followers&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/📍_India-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" />
+
 </div>
+
 <br/>
-<img src="https://godigiworld.com/wp-content/uploads/2021/04/iOS_App.gif" width="80%">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         ABOUT ME                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>👋 About Me</h2>
+</div>
+
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+**Dev Jashani** — a final-year B.Tech CSE student focused on **Java Full Stack development**.
+
+I enjoy building **scalable, production-ready** enterprise applications with **Spring Boot** and continuously improving my understanding of **real-world backend systems**.
+
+Currently, I'm learning **Microservices Architecture, System Design, and Docker**, while sharpening my problem-solving skills through **Data Structures & Algorithms**.
+
+My goal is simple: **write clean code, build reliable software, and grow into a software engineer who creates systems that last.**
+
+<br clear="right"/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         TECH STACK                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>⚡ Tech Stack</h2>
+</div>
+
+<div align="center">
+
+<!-- Row 1 — Languages -->
+<img src="https://skillicons.dev/icons?i=java,js,kotlin,cpp,mysql&theme=dark" />
 <br/>
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- Row 2 — Backend -->
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven,postman,docker&theme=dark" />
+<br/>
+<!-- Row 3 — Frontend + DB + Tools -->
+<img src="https://skillicons.dev/icons?i=react,html,css,postgres,firebase&theme=dark" />
+<br/>
+<!-- Row 4 — Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,androidstudio&theme=dark" />
 
-🔭 I’m currently working on **LeetCode and Java Project** <img style="vertical-align: bottom" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Daily Coding" width="30" />
+</div>
 
-🏫 I’m currently learning **Java || Advance DSA**
+---
 
-🔎 I’m looking to collaborate on **Open source Project**
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       FEATURED PROJECTS                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-💻 All of my projects are available at **[My Portfolio](https://github.com/devjashani)**
+<div align="center">
+  <h2>🚀 Featured Projects</h2>
+  <p><i>Selected work — built with intent, shipped with care.</i></p>
+</div>
 
-💬 Ask me about **IOS Development || Advance DSA**
+<br/>
 
-💗 Love to talk about **Research and Innovation!**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 💪 Passionate about Competitive Coding
+### 🏢 NexusHR
+**Enterprise HR Management System**
 
-- Solved 55+ DSA Problems at **[LeetCode](https://leetcode.com/DevJashani/)**
-- Solved 15+ MySQL Problems at **[HackerRank](https://www.hackerrank.com/profile/devjashani40)**
-## 🏆 Achievement
+`Java 21` `Spring Boot` `React` `PostgreSQL` `JWT`
 
+- 🏗️ Architected **6 microservices** with Maven multi-module structure
+- 🔐 JWT auth + **Role-Based Access Control** across 10+ REST APIs
+- 🗄️ Relational schema for employee, attendance & payroll data
 
-- Among the Top 400 **[GitHub Users by Followers](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/india.md)** in India
-- Top IOS Development Voice on **[Linkedin](https://www.linkedin.com/in/devjashani/)**
+<a href="https://github.com/devjashani/NexusHR"><img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
 
-📫 How to reach me **devjashani2004@gmail.com**
+</td>
+<td width="50%" valign="top">
 
-## 🔰 Let's Connect:
+### 🏋️ FitXTrack
+**Fitness Tracking Android App**
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-jashani-33410a2a0/)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ig_Dev_)
-[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/1220953272605737081/1220953274501300294)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devjashani2004@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_jashani/?igsh=Njl2MXY2aHV5MTV0)
+`Kotlin` `Jetpack Compose` `Firebase` `MVVM`
 
+- 📱 **5+ modules** with Jetpack Compose & MVVM architecture
+- 🔄 Auth, workout tracking, weekly planning
+- ☁️ Firebase Auth + Firestore real-time sync
 
-## ‍🎃 Coding Profile:
+<a href="https://github.com/devjashani/FitXTrack"><img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
 
-[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/devjashani)
-[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/devjashani40)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## ♨ Languages and Tools:
+### 🛕 Daily Mandir
+**Spiritual Android Application**
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
-[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
-[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
-[![github pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://pages.github.com/)
-[![visualstudio](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![adobe photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.adobe.com/in/products/photoshop.html)
-[![microsoft office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com/)
-[![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
+`Kotlin` `Jetpack Compose` `Firebase`
 
+- 🎨 **5+ screens** with reusable UI components
+- ☁️ Real-time content via Firebase Firestore
+- 📱 Clean modern UI
 
+<a href="https://github.com/devjashani/Daily-Mandir"><img src="https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
 
+</td>
+<td width="50%" valign="top">
 
+### 💼 Open to Opportunities
+**Java Full Stack / Backend Roles**
 
+Looking for **SDE / Backend / Full Stack** roles for 2026.
 
+- 📧 devjashani2004@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/dev-jashani)
 
+<a href="mailto:devjashani2004@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 
+</td>
+</tr>
+</table>
 
+---
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         EXPERIENCE                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=50&center=true&vCenter=true&random=false&width=30&height=24&lines=%F0%9F%92%AB" alt="Typing SVG" /> Github Status:
+<div align="center">
+  <h2>💼 Experience</h2>
+</div>
 
-<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=devjashani&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center" alt="Github Stats" /></div>
+<br/>
+
+<table>
+<tr>
+<td width="20%" align="center">
+  <img src="https://img.shields.io/badge/💼-0D1117?style=for-the-badge&logoColor=FFFFFF" />
+</td>
+<td>
+
+### **Java Full Stack Developer Intern**
+**Zido Development** · *March 2026 – June 2026*
+
+- Developed **6 Spring Boot microservices** using Java 21, Maven, PostgreSQL, and REST APIs for an enterprise HR Management System
+- Implemented **JWT authentication, Spring Security, and RBAC** across 10+ REST APIs with React.js
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      ACHIEVEMENTS                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>🏆 Achievements</h2>
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🥇 Team Leader**
+Team Easy
+*Intra College Hackathon 2024*
+
+</td>
+<td align="center" width="33%">
+
+**🥈 Co-Leader**
+Team R V Qualified
+*Smart India Hackathon 2023*
+
+</td>
+<td align="center" width="33%">
+
+**🎓 Finance Educator**
+Content Creator
+*Instagram*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**📜 Certifications**
+
+- 🎖️ **Spring Boot REST API with Java & Gradle** — CodeSignal *(Jul–Aug 2026)*
+- 🎖️ **Android App Development** — Udemy *(Dec 2025)*
+
+**🏅 Coding Profiles**
+
+- 💻 **55+ DSA problems** on [LeetCode](https://leetcode.com/devjashani)
+- 🗄️ **15+ MySQL problems** on [HackerRank](https://www.hackerrank.com/profile/devjashani40)
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       GITHUB STATS                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=devjashani&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=8B949E&text_color=8B949E&count_private=true&include_all_commits=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjashani&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devjashani&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=8B949E&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=devjashani&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ACTIVITY GRAPH                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>📈 Activity Graph</h2>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devjashani&bg_color=0D1117&color=8B949E&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&area_color=21262D" width="100%" />
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      SNAKE ANIMATION                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devjashani/devjashani/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         CONNECT                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <h2>🤝 Connect</h2>
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/devjashani"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+<a href="https://linkedin.com/in/dev-jashani"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://twitter.com/ig_Dev_"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF" /></a>
+<a href="https://www.instagram.com/dev_jashani/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
+<a href="mailto:devjashani2004@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+
+</div>
+
+<br/>
+
+<!-- Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=18&fontColor=8B949E&fontAlignY=70&animation=fadeIn" width="100%" />
+
+<div align="center">
+  <sub><i>Building scalable systems, one microservice at a time.</i></sub>
+</div>
