@@ -1,17 +1,17 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--              DEV JASHANI — JAVA FULL STACK DEVELOPER            -->
-<!--              Dark Minimal Aesthetic Profile README              -->
+<!--              Dark Minimal · Animated · Aesthetic Profile        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=200&section=header&text=Dev%20Jashani&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<!-- Animated Hero (assets/hero.svg) -->
+<img src="./assets/hero.svg" width="100%" alt="Dev Jashani — Java Full Stack Developer" />
 
 <!-- Animated Subtitle -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&random=false&width=600&lines=Building+reliable+backend+systems;Spring+Boot+%7C+React+%7C+PostgreSQL;Clean+architecture.+Scalable+solutions.;Just+Code+Nig." alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 <!-- Minimal Social Row -->
 <a href="https://github.com/devjashani"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" /></a>
@@ -36,7 +36,7 @@
   <h2>👋 About Me</h2>
 </div>
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" width="380" src="./assets/about.svg" alt="Human meets machine" />
 
 **Dev Jashani** — a B.Tech CSE graduate focused on **Java Full Stack development**.
 
