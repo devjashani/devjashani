@@ -163,10 +163,10 @@ Looking for **SDE / Backend / Full Stack** roles for 2026.
 
 <table>
 <tr>
-<td width="20%" align="center">
-  <img src="https://img.shields.io/badge/💼-0D1117?style=for-the-badge&logoColor=FFFFFF" />
+<td width="180" align="center" valign="middle">
+  <img src="https://naukriwakri.in/wp-content/uploads/2025/04/download-4.jpeg-scaled.jpg" />
 </td>
-<td>
+<td valign="middle">
 
 ### **Java Full Stack Developer Intern**
 **Zido Development** · *March 2026 – June 2026*
@@ -225,8 +225,8 @@ Content Creator
 
 **🏅 Coding Profiles**
 
-- 💻 **55+ DSA problems** on [LeetCode](https://leetcode.com/devjashani)
-- 🗄️ **15+ MySQL problems** on [HackerRank](https://www.hackerrank.com/profile/devjashani40)
+- 💻 **190+ DSA problems** on [LeetCode](https://leetcode.com/devjashani)
+- 🗄️ **120+ MySQL problems** on [HackerRank](https://www.hackerrank.com/profile/devjashani40)
 
 ---
 
