@@ -38,7 +38,7 @@
 
 <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-**Dev Jashani** — a final-year B.Tech CSE student focused on **Java Full Stack development**.
+**Dev Jashani** — a B.Tech CSE graduate focused on **Java Full Stack development**.
 
 I enjoy building **scalable, production-ready** enterprise applications with **Spring Boot** and continuously improving my understanding of **real-world backend systems**.
 
